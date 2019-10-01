@@ -1,0 +1,14 @@
+project '15-IWantAPizza.xcodeproj'
+
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+
+target '15-IWantAPizza' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+  #pod 'RealmSwift'
+  # add pods for desired Firebase products
+  # https://firebase.google.com/docs/ios/setup#available-pods
+  # Pods for 15-IWantAPizza
+
+end

@@ -1,0 +1,6 @@
+framework module Pods_11_MisApuntes {
+  umbrella header "Pods-11-MisApuntes-umbrella.h"
+
+  export *
+  module * { export * }
+}

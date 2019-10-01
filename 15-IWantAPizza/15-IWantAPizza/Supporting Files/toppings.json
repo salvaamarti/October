@@ -1,0 +1,118 @@
+[
+	{
+		"name": "Tomatoe",
+		"info": "Mediterranean tomatoes",
+		"price": 1
+	},
+	{
+		"name": "Garlic",
+		"info": "Garlic powder",
+		"price": 1.2
+	},
+	{
+		"name": "Mozzarella",
+		"info": "Sliced mozzarella",
+		"price": 1.75
+	},
+	{
+		"name": "Basil",
+		"info": "",
+		"price": 0.75
+	},
+	{
+		"name": "Olive oil",
+		"info": "Extra virgin olive oil",
+		"price": 0.85
+	},
+	{
+		"name": "Sausages",
+		"info": "",
+		"price": 1.5
+	},
+	{
+		"name": "Onions",
+		"info": "",
+		"price": 1.25
+    },
+    {
+        "name": "Mushrooms",
+        "info": "",
+        "price": 1.25
+    },
+    {
+        "name": "Peppers",
+        "info": "Green or red peppers",
+        "price": 1.25
+    },
+    {
+        "name": "Parmesano",
+        "info": "Parmesan cheese",
+        "price": 2.5
+    },
+    {
+        "name": "Tomatoe sauce",
+        "info": "",
+        "price": 1
+    },
+    {
+        "name": "Pepperoni",
+        "info": "",
+        "price": 1.25
+    },
+    {
+        "name": "Anchovies",
+        "info": "",
+        "price": 1.25
+    },
+    {
+        "name": "Olives",
+        "info": "Black olives",
+        "price": 1.25
+    },
+    {
+        "name": "Cheddar",
+        "info": "Cheddar cheese",
+        "price": 1.75
+    },
+    {
+        "name": "Provolone",
+        "info": "Provolone cheese",
+        "price": 2.5
+    },
+    {
+        "name": "Beef",
+        "info": "Ground beef",
+        "price": 1.5
+    },
+    {
+        "name": "Oregano",
+        "info": "",
+        "price": 0.25
+    },
+    {
+        "name": "Chicken",
+        "info": "",
+        "price": 1.95
+    },
+    {
+        "name": "Artichokes",
+        "info": "",
+        "price": 1.15
+    },
+    {
+        "name": "Goat Cheese",
+        "info": "",
+        "price": 1.85
+    },
+    {
+        "name": "Eggs",
+        "info": "",
+        "price": 1.25
+    },
+    {
+        "name": "Herbs",
+        "info": "",
+        "price": 0.5
+    }
+    
+]
